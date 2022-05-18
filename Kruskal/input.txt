@@ -1,0 +1,21 @@
+10  
+  0	  6	INF	INF	INF	INF	  3	INF	INF	  9
+  6	  0	  9	INF	INF	INF	  4	  2	INF	INF
+INF	  9	  0	  4	  5	INF	INF	  9	  7	INF
+INF	INF	  4	  0	  1	  4	INF	INF	INF	INF
+INF	INF	  5	  1	  0	  3	INF	INF	  9	INF
+INF	INF	INF	  4	  3	  0	INF	INF	 10	 18
+  3	  4	INF	INF	INF	INF	  0	  2	  9	  9
+INF	  2	  9	INF	INF	INF	  2	  0	  8	INF
+INF	INF	  7	INF	  9	 10	  9	  8	  0	  8
+  9	INF	INF	INF	INF	 18	  9	INF	  8	  0
+case #1
+6
+  0  33  17 INF INF INF
+ 33   0  18  20 INF INF
+ 17	 18   0  16   4 INF
+INF  20  16   0   9   8
+INF INF   4   9	  0  14
+INF INF INF	  8  14   0
+case #2
+
